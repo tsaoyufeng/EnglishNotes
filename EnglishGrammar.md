@@ -1,7 +1,5 @@
 ## 1. 词性与成分
 
-___
-
 ### 1.1 成分与词性
 
 1. **主语**：名词性
@@ -12,11 +10,6 @@ ___
 
 4. **表语**：名词性、形容词性、副词性
 
-5. **定语**：名词性、形容词性、副词性
-
-6. **状语**：副词性、形容词性
-
-7. **补语**：名词性、形容词性、副词性
 
 ### 1.2 词类与词性
 
@@ -58,8 +51,6 @@ ___
 4. 副词：被副词修饰
 
 ## 2. 基本句型
-
-___
 
 ### 2.1 六大基本句型
 
@@ -143,8 +134,6 @@ how 引导的感叹句的**中心词为形容词或副词**，常见的结构有
 
 ## 3. 并列句（连词）
 
-___
-
 ### 3.1 并列连词
 
 1. 并列：and, both...and..., neither...nor..., either...or..., not only...but also..., not only...but...as well, not...but...
@@ -173,8 +162,6 @@ ___
 2. 引导状语从句
 
 ## 4. 名词性从句
-
-___
 
 ### 3.1 构成
 
@@ -209,8 +196,6 @@ ___
 ### 3.5 同位语从句
 
 ## 5. 状语从句
-
-___
 
 ### 5.1 时间状语从句
 
@@ -336,8 +321,6 @@ I was so tired that I went to sleep immediately.
 
 ## 6. 定语从句
 
-___
-
 ### 4.1 关系代词
 
 关系代词在定语从句中作成分，主、宾、表、定。
@@ -393,8 +376,6 @@ ___
 2. 混杂
 3. 多重
 4. 省略
-
-___
 
 ## 7. 非谓语动词
 
@@ -460,8 +441,9 @@ ___
 1. 表述客观真理、客观存在及自然现象
    * Knowledge **is** power.
    * China **lies in** the east of Asia.
-2. 表示习惯性、经常性的动作，或经常存在的状态
+2. 表示习惯性、经常性的动作，或经常存在的状态[^2]
    * I never **get up** early on Sundays.
+   * I sometimes **stay in** bed until lunchtime.
    * **Do** you always get up so late?
 3. 表示按时间表拟定或安排好要发生的动作
    * The train **leaves** London at six o'clock.
@@ -470,25 +452,24 @@ ___
    * Here **comes** the bus!
    * There **goes** the bell.
 5. 时间、条件、让步状语从句中代替一般将来时
-   * If it **doesn't rain**, we'll go on a picnic as planned.
-   * When you **come across** a new word while reading, you'd better not look it up at once.
+   * 
 
 ### 9.2 现在进行
 
-1. 表示说话时正在进行的动作
+1. 表示说话时正在进行的动作[^2]
 
-   * The telephone **is ringing**.
-   * Now watch carefully and see what **is happening** in the experiment.
+   * What are you doing?
+   * I am having breakfast.
 
-2. 表示现阶段正在进行的动作，虽然此时此刻该动作不一定正在进行
+2. 表示现阶段正在进行的动作，虽然此时此刻该动作不一定正在进行[^4]
 
-   * George **is working** on a new book about stories in schools.
-   * I **am visiting** Guangzhou this week.
+   * He is working for a big firm.
+   * He is finding this trip very exiting.
 
-3. 表示此时此刻某一动作不断地重复
+3. 表示此时此刻某一动作不断重复
 
-   * The little girls **is blinking** at me.
-   * The boy **is jumping** with great joy at the sight f his mother.
+   * The boy **is jumping** with great joy at the sight of his mother.
+   * The little girl **is blinking** at me.
 
 4. 表达感情色彩
 
@@ -497,7 +478,7 @@ ___
    * The naughty boy **is continually asking** questions.
    * She **is always thinking of** others instead of herself.
 
-5. 有些瞬间动词用于进行时态表示“即将......”
+5. 有些瞬间动词用于进行时态表示“即将......”[^2]
 
    这类动词有 come, go, leave, start begin, stop, arrive, stay, return, take 等
 
@@ -505,19 +486,18 @@ ___
 
 ### 9.3 一般过去
 
-1. 表示过去发生的事或存在的状态
+1. 表示过去发生的事或存在的状态[^3]
    * Last summer, I **went to** Italy.
-   * She **looked** very well when I last **saw** her.
-2. 表示过去经常、反复发生的动作
-   * I always **got up** too late.
-   * We often **went out** for a walk after supper when we lived in the countryside.
+   * A friendly waiter taught me a few words of Italian.
+2. 表示过去经常、反复发生的动作[^3]
+   * Every day I thought about postcards.
 3. 描述几个相继发生过的动作
    * I **got up** early, **washed** my face, **had** a quick breakfast and **hurried** to school.
 4. 追述逝去的人或事
    * The book **was written** by Mr Liang Shiqiu.
    * Lei Feng **set** a good example to the people throughout the world.
 5. 在时间、条件、让步状语从句中，表示过去将来的动作
-   * She said she would come if I **promised** to wait for her.
+   * 
 
 ### 9.4 过去进行
 
@@ -534,6 +514,20 @@ ___
 
 ### 9.7 现在完成
 
+1. 强调过去的行为对现在的影响[^4]
+   * I have just received a letter from my brother, Tim.
+   * He has already visited a great number of different places.
+2. 表示过去的某一动作一直持续到现在[^4][^5]
+   * He has been there for six months.
+   * He has begun his own private 'telephone' service.
+3. 表示经历过的事情[^4]
+   * I have never been abroad before.
+4. 在时间、条件等状语从句中代替将来完成时
+5. 辨析
+   * He **has been** Beijing for six months.
+   * He **has been to** Beijing.
+   * He **has gone to** Beijing.
+
 ### 9.8现在完成进行
 
 ### 9.9 过去完成
@@ -545,8 +539,6 @@ ___
 ### 9.12 将来完成进行
 
 ## 10. 语态
-
-___
 
 ### 10.1 被动语态的构成
 
@@ -560,19 +552,38 @@ ___
 
 ### 11.2 副词的位置
 
-1. 频度副词的位置
+1. 修饰形容词、副词时的位置
+
+   修饰形容词、副词时，一般位于被修饰的词的前面。enough 作副词时，总是置于被修饰的词之后。
+
+   * The place looks completely different now.
+   * The book is easy enough for little kids.
+
+2. 方式副词、时间副词、地点副词的位置[^4][^5][^6]
+
+   修饰动词的方式副词一般放在动词后，有时也可放在动词前。时间副词可放在句末也可放在句首，有时也可放在句中。地点副词一般置于句末。当三种副词同时出现时，通常是按照方式副词、地点副词、时间副词的顺序排列。
+
+   * I have just receive a letter from my brother, Tim.
+   * He has already visited a great number of different places.
+   * Have you ever been to Australia?
+   * I have never met him before.
+   * He has been there for six months.
+   * He has retired now.
+   * I haven't been very successful so far.
+   * Have you read any good books lately?
+   * The train has not arrived yet.
+   * Up till now he has won five prizes.
+   * He calls at every house in the street once a month.
+
+3. 频度副词的位置[^2]
 
    频度副词常位于动词之前，系动词、情态动词、助动词之后；句中有多个助动词时，置于第一个助动词之后
 
-   * I  rarely listen to the radio.
+   * I frequently go to bed hungry.
+   * I rarely listen to the radio.
    * I never get up early on Sundays.
-   * I sometimes say in bed until lunchtime.
    * Jeff is always ready to help others.
    * You'll always be asked to keep silence over what's happened.
-
-2. 方式副词、时间副词、地点副词的位置
-
-   修饰动词的方式副词一般放在动词后，有时也可放在动词前。时间副词可放在句末也可放在句首。地点副词一般置于句末。当三种副词同时出现时，通常是按照方式副词、地点副词、时间副词的顺序排列。
 
 ### 11.3 副词的比较级
 
@@ -587,8 +598,6 @@ ___
 ### 12.3 形容词的比较级
 
 ## 13. 介词
-
-___
 
 ### 13.1 地点介词
 
@@ -670,15 +679,55 @@ ___
 
 ## 14. 冠词
 
-___
+### 14.1 不定冠词
+
+不定冠词是表示泛指的
+
+1. 用在可数名词单数前表示一类人或事物
+   * A tiger is a dangerous animal.
+   * A square has four sides.
+2. 表示泛指某个人或事物
+   * Yesterday I bought a book. Books are not very expensive.
+   * Yesterday a begger knocked at my door.
+3. 表示“一”的概念
+4. 表示相同、同一或具有相同的性质
+5. 表示单位量词的“每一”
+   * He calls at every house in the street once a month.
+6. 用于表示整体的集体名词、可数名词化了的不可数名词及专有名词前
+7. 用于表示某一方面、某一部分等特殊含义的不可数名词前
+8. 用于部分动词短语中
+9. 用于作同源宾语的名词前
+10. 固定短语
+
+### 14.2 定冠词
+
+定冠词主要表示特指，其次还可以表示泛指
+
+1. 特指上文提到过的特定的人或事物
+   * A man is walking towards me. The man is carring a parcel. The parcel is full of meat.
+2. 特指上文虽未提及，但谈话人都知道的人或事物
+3. 用在表示宇宙间独一无二的名词前
+4. 用在可数名词单数前表示一类人或事物
+   * The tiger is a dangerous animal.
+5. 用在表示地点、方位和时间的固定短语中
+6. 用在序数词前或比较级所修饰的名词前
+7. 用于
+8. 用于某些形容词或形容词化的过去分词前表示一类人或事物
+9. 用于被演奏的西洋乐器名词前
+10. 用于集体名词、物质名词前
+11. 用于表示世纪或年代的词前
+12. 用于
+13. 用于
+14. 用于表示地名、组织名、江河、海洋、海湾、沙漠等的专有名词前
+
+### 14.3 零冠词
+
+1. 不可数名词和可数名词复数不加冠词表示一类人或事物
+   * Life sometimes is hard.
+   * Tigers are dangerous animals.
+
+2. 姓名前不能用不定冠词或定冠词
 
 ## 15. 代词
 
-___
-
 ## 16. 数词
-
-
-
-
-
