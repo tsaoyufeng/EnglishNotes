@@ -502,11 +502,35 @@ I was so tired that I went to sleep immediately.
 ### 9.4 过去进行
 
 1. 表示在过去某一时间正在进行的动作
+
+   可以是过去某一具体的时间，也可以是过去某一动作发生的时间，还可以是过去某一动作正在发生的时间
+
+   * What were you doing this time last year.
+
+   * When I was watering the garden, it began to rain.
+   * As I was getting on the bus, I slipped and hurt my foot.
+   * Someone knocked at the door just as I was getting into the bath.
+   * George was reading while his wife was listening.
+
 2. 表示在过去某一段时间内一直持续进行的动作
-3. 表示一个动作发生时，另一个动作正在进行
-4. 用于描写故事情景，或者提供故事发生的时间背景
-5. 表示过去将要发生的动作
-6. 表示礼貌
+
+   * The plane was late and detectives were waiting at the airport all morning.
+   * The were expecting a valuable parcel of diamonds from South Africa.
+
+3. 用于描写故事情景，或者提供故事发生的时间背景
+
+   * it was a dark night and it was snowing heavily.
+
+4. 表示过去将要发生的动作
+
+   这类动词有 come, go, leave, start begin, stop, arrive, stay, return, take 等
+
+   * He told me he was leaving for Shanghai the next day.
+
+5. 表示礼貌
+
+   * I was wondering if you could help me look up the word "ergonomics".
+   * I was thinking if you could write an essay about George Gordon Byron.
 
 ### 9.5 一般将来
 
@@ -597,6 +621,36 @@ I was so tired that I went to sleep immediately.
 
 ### 12.3 形容词的比较级
 
+#### 12.3.1 原级
+
+1. "... as + 原级形容词 + as ..." 
+   * My handwriting is as beautiful as yours.
+   * The story is as interesting as the one you just told.
+2. "... not as/so + 原级形容词 + as ..."
+   * I am not as/so busy as I used to be.
+   * The weather here is not as/so comfortable as that in China.
+3. " ... as much/many + 名词 + as ..."
+   * We have produced as many tractors as we did last year.
+   * I don't make as much money as you do.
+
+#### 12.3.2 比较级
+
+1. 比较级 + than
+   * Jane is taller than Mary.
+   * Jane has more photos than Mary.
+2. 单独使用比较级
+   * Mary is tall, but Jane is taller.
+   * It's colder today.
+3. 比较级 + and + 比较级
+4. the + 比较级 ..., the + 比较级
+
+#### 12.3.3 最高级
+
+1. the + 形容词最高级（ +名词 ）+ 比较范围
+   * Caroline is very tall. She is the tallest girl int he class.
+   * Caroline's handwriting is very bad. It is the worst handwriting I have ever seen.
+2. 最高级不表示“最......”的用法
+
 ## 13. 介词
 
 ### 13.1 地点介词
@@ -641,27 +695,52 @@ I was so tired that I went to sleep immediately.
 
 ### 13.2 时间介词
 
-1. at, in, on
-   * at 表示在某一具体时刻、某时间点
-   * in 表示在一段较长的时间
-   * on 表示在特定的日子、具体的日期、星期及节日等
-2. during, in
-   * 都表示“一段时间内”，during 强调时间的延续，表示在某一段时间内自始至终的状态
-   * in 表示动作发生的具体的时间
-3. in, after
-   * 都表示“一段时间后”，after 用于过去时的句子中
-   * in 用于将来时的句子中
-   * after 接时间点表示“某个时间点之后”
-4. for, since
-   * for 接一段时间，用于完成时的句子中
-   * since 接时间点，用于完成时的句子中
-5. before, by
-   * 二者都表示“在......之前”，by含有“截止”的意思
-6. by, until
-   * by 表示到什么时候为止动作已经完成了
-   * until 表示动作持续到什么时候
-7. between
-8. till
+#### 13.2.1 at, in, on
+
+1. at 表示在某一具体时刻、某时间点
+   * I aways leave home at 8 o'clock.
+2. in 表示在一段较长的时间内
+   * The second World War began in 1939 and ended in 1945.
+3. on 表示在特定的日子、具体的日期、星期及节日等
+   * On Wednesday evening, we went to the Town Hall.
+
+#### 13.2.2 during, in
+
+都表示“一段时间内”
+
+1. during 强调时间的延续，表示在某一段时间内自始至终的状态
+   * It rained heavily during the night.
+2. in 表示动作发生的具体的时间
+   * 同 13.2.1-2
+
+#### 13.2.3 in, after
+
+都表示“一段时间后”
+
+1. in 用于将来时的句子中
+   * It would strike twelve in twenty minutes' time.
+2. after 用于过去时的句子中
+   * After 20 hours, we arrived at Los Angeles Airport.
+3. after 接时间点表示“某个时间点之后”
+   * We'll have a meeting after three o'clock.
+
+#### 13.2.4 for, since
+
+* for 接一段时间，用于完成时的句子中
+* since 接时间点，用于完成时的句子中
+
+#### 13.2.5 before, by
+
+* 二者都表示“在......之前”，by含有“截止”的意思
+
+#### 13.2.6 by, until
+
+* by 表示到什么时候为止动作已经完成了
+* until 表示动作持续到什么时候
+
+#### 13.2.7 from, till, between
+
+* The shops are open from 9 till 5.
 
 ### 13.3 手段介词
 
@@ -725,9 +804,10 @@ I was so tired that I went to sleep immediately.
 1. 不可数名词和可数名词复数不加冠词表示一类人或事物
    * Life sometimes is hard.
    * Tigers are dangerous animals.
-
 2. 姓名前不能用不定冠词或定冠词
 
 ## 15. 代词
+
+与 every 一起符合而成的不定代词是单数形式
 
 ## 16. 数词
