@@ -13,7 +13,7 @@
 
 ### 1.2 词类与词性
 
-#### 1.2.1 能直接做成分的词类
+#### 1.2.1 直接做成分的词类
 
 1. **名词**：名词性
 2. **动词**：动词性
@@ -22,7 +22,7 @@
 5. **代词**：同名词
 6. **数词**：同名词
 
-#### 1.2.2不能直接做成分的词类
+#### 1.2.2不直接做成分的词类
 
 1. **介词**：介词 + 名词性（名词、动名词）：形容词性、副词性
 2. **连词**：连接句子
@@ -95,6 +95,8 @@
 
 ### 2.3 祈使句
 
+祈使句省略了主语，开头即为原形动词
+
 1. 肯定
 
    * Put the books in your bag .
@@ -132,7 +134,7 @@ how 引导的感叹句的**中心词为形容词或副词**，常见的结构有
 2. How + 主语 + 谓语 
    * How time flies !
 
-## 3. 并列句（连词）
+## 3. 连词与并列句
 
 ### 3.1 并列连词
 
@@ -163,13 +165,13 @@ how 引导的感叹句的**中心词为形容词或副词**，常见的结构有
 
 ## 4. 名词性从句
 
-### 3.1 构成
+### 4.1 构成
 
 1. **that 从句**（由陈述句演变而来）：**that + 陈述句**
 2. **whether / if 从句**（由一般疑问句演变而来）：**whether / if + 陈述句**
 3. **疑问词引导的从句**（由特殊疑问句演变而来）：**疑问词 + 陈述句**
 
-### 3.2 主语从句
+### 4.2 主语从句
 
 * that 引导主语从句时在从句中*不作成分*，没有实际意义。that 不可省略。
 
@@ -179,7 +181,7 @@ how 引导的感叹句的**中心词为形容词或副词**，常见的结构有
 
 * 疑问词引导的主语从句在从句中*作一定的成分*，且表示一定的意义。
 
-### 3.3 宾语从句
+### 4.3 宾语从句
 
 1. 动词后的宾语从句
    * 有些动词如 discuss, decide 后的宾语从句常用 whether 引导。
@@ -191,137 +193,13 @@ how 引导的感叹句的**中心词为形容词或副词**，常见的结构有
 * 与 or not 连用时，一般用 whether 不用 if。
 * 宾语从句位于句首时，一般用 whether 不用 if。
 
-### 3.4 表语从句
+### 4.4 表语从句
 
-### 3.5 同位语从句
+### 4.5 同位语从句
 
-## 5. 状语从句
+## 5. 定语从句
 
-### 5.1 时间状语从句
-
-#### 5.2.1 when、while、as
-
-1. when 引导的从句谓语既可用持续性动词，也可用终止性动词。
-2. while 引导的从句谓语必须是持续性的或表状态的动词。
-
-#### 5.2.2 until、till
-
-1. until 可以放在句首，till 不可以。
-
-#### 5.2.3 since
-
-1. since 引导的从句常用一般过去时，主句常用完成时态或完成进行时态。
-2. since引导从句的谓语是持续性动词时表达某一状态的终止，是终止性动词时表达某一动作的开始。
-
-#### 5.2.4 before、after
-
-#### 5.2.5 "一......就......"
-
-1. as soon as
-2. directly
-3. no sooner than
-4. hardly when
-
-#### 5.2.6 名词短语
-
-1. the day
-2. the time
-
-### 5.2 地点状语从句
-
-#### 5.2.1 where
-
-* I live where there are mountains.
-
-#### 5.2.2 wherever
-
-* If you could go wherever you want to, where would you go?
-
-### 5.3 原因状语从句
-
-#### 5.3.1 because、since、as
-
-* We have to go to bed because we'll start off early tomorrow.
-* Since you know all about it, tell me please.
-* As all the seats were taken, I had to stand.
-
-#### 5.3.2 now that
-
-* Now that you are here, you'd better stay.
-
-### 5.4 条件状语从句
-
-#### 5.4.1 if, unless, as/so long as
-
-* If you see him, give him this note.
-
-* We won't finish the work on time unless we work hard.
-* You can use my car as/so long as you return it before Friday.
-
-### 5.5 目的状语从句
-
-#### 5.5.1 so that、in order that
-
-* He played the piano very gently so that the baby could not be waken up.
-
-* In order that we can arrive there on time, we should start off early.
-
-#### 5.5.2 for fear that、in case
-
-* I'm studying hard for fear that I should fail.
-
-* Here, in case you change your mind.
-
-### 5.6 让步状语从句
-
-#### 5.6.1 though、although
-
-* Though/Although Canada is large, the population is small.
-
-#### 5.6.2 even if、even though
-
-* Even if/Even though we got a local guide, we still had some difficulty waking through the bush.
-
-#### 5.6.3 as、while
-
-#### 5.6.4 疑问词-ever、no matter + 疑问词
-
-### 5.7 结果状语从句
-
-#### 5.7.1 so、so (that)
-
-* My parents are waiting for me , so I must be off now.
-
-* The teacher explained very clearly so that we all understood.
-
-#### 5.7.2 so...that...
-
-I was so tired that I went to sleep immediately.
-
-#### 5.7.3 such...that...
-
-* Dalian is such a beautiful city that a great many people go there for holidays.
-
-### 5.8 比较状语从句
-
-#### 5.8.1 than
-
-#### 5.8.2 as
-
-### 5.9 方式状语从句
-
-#### 5.9.1 as
-
-* You should do as I do.
-
-#### 5.9.2 as if、as though
-
-* He treated the boy as if he were his son.
-* He walked about as though he had lost something.
-
-## 6. 定语从句
-
-### 4.1 关系代词
+### 5.1 关系代词
 
 关系代词在定语从句中作成分，主、宾、表、定。
 
@@ -343,7 +221,7 @@ I was so tired that I went to sleep immediately.
    * 在限制性定语从句中，作宾语和表语的关系代词一般可以省略。
    * 在介词后或在非限制性定语从句中，关系代词不可省略。
 
-### 4.2 关系副词
+### 5.2 关系副词
 
 关系副词在定语从句中作成分，状。
 
@@ -355,14 +233,14 @@ I was so tired that I went to sleep immediately.
    * why 一般跟在先行词 reason 后，可用 for which 代替。
    * 引导非限制性定语从句时不能用why，应用 for which。
 
-### 4.3 介词 + 关系代词
+### 5.3 介词 + 关系代词
 
 有时候，从句中的介词会移到关系代词之前，此时关系代词用which、whom、whose。
 
 1. "介词 + 关系代词"
 2. "代词/数词/形容词最高级 + 介词 + 关系代词"
 
-### 4.4 非限定性定语从句
+### 5.4 非限定性定语从句
 
 非限制定语从句起到补充说明的作用，去掉也不会影响对全局的理解。非限定定语从句的前面往往有逗号与先行词隔开。以下几种情况使用非限定性定语从句：
 
@@ -370,14 +248,146 @@ I was so tired that I went to sleep immediately.
 2. 先行词指的世界上独一无二的事务或专有名词时。
 3. "代词/数词/形容词 + 介词 + 关系代词" 结构常用非限定性定语从句
 
-### 4.5 特殊结构的定语从句
+### 5.5 特殊结构的定语从句
 
 1. 分隔
 2. 混杂
 3. 多重
 4. 省略
 
-## 7. 非谓语动词
+## 6. 状语从句
+
+### 6.1 时间状语从句
+
+#### 6.1.1 when、while、as
+
+1. when 引导的从句谓语既可用持续性动词，也可用终止性动词。
+2. while 引导的从句谓语必须是持续性的或表状态的动词。
+
+#### 6.1.2 until、till
+
+1. until 可以放在句首，till 不可以。
+
+#### 6.1.3 since
+
+1. since 引导的从句常用一般过去时，主句常用完成时态或完成进行时态。
+2. since引导从句的谓语是持续性动词时表达某一状态的终止，是终止性动词时表达某一动作的开始。
+
+#### 6.1.4 before、after
+
+#### 6.1.5 "一......就......"
+
+1. as soon as
+2. directly
+3. no sooner than
+4. hardly when
+
+#### 6.1.6 名词短语
+
+1. the day
+2. the time
+
+### 6.2 地点状语从句
+
+#### 6.2.1 where
+
+* I live where there are mountains.
+
+#### 6.2.2 wherever
+
+* If you could go wherever you want to, where would you go?
+
+### 6.3 原因状语从句
+
+#### 6.3.1 because、since、as
+
+* We have to go to bed because we'll start off early tomorrow.
+* Since you know all about it, tell me please.
+* As all the seats were taken, I had to stand.
+
+#### 6.3.2 now that
+
+* Now that you are here, you'd better stay.
+
+### 6.4 条件状语从句
+
+#### 6.4.1 if, unless, as/so long as
+
+* If you see him, give him this note.
+
+* We won't finish the work on time unless we work hard.
+* You can use my car as/so long as you return it before Friday.
+
+### 6.5 目的状语从句
+
+#### 6.5.1 so that、in order that
+
+* He played the piano very gently so that the baby could not be waken up.
+
+* In order that we can arrive there on time, we should start off early.
+
+#### 6.5.2 for fear that、in case
+
+* I'm studying hard for fear that I should fail.
+
+* Here, in case you change your mind.
+
+### 6.6 让步状语从句
+
+#### 6.6.1 though、although
+
+* Though/Although Canada is large, the population is small.
+
+#### 6.6.2 even if、even though
+
+* Even if/Even though we got a local guide, we still had some difficulty waking through the bush.
+
+#### 6.6.3 as、while
+
+#### 6.6.4 疑问词-ever、no matter + 疑问词
+
+### 6.7 结果状语从句
+
+#### 6.7.1 so、so (that)
+
+* My parents are waiting for me , so I must be off now.
+
+* The teacher explained very clearly so that we all understood.
+
+#### 6.7.2 so...that...
+
+I was so tired that I went to sleep immediately.
+
+#### 6.7.3 such...that...
+
+* Dalian is such a beautiful city that a great many people go there for holidays.
+
+### 6.8 比较状语从句
+
+#### 6.8.1 than
+
+#### 6.8.2 as
+
+### 6.9 方式状语从句
+
+#### 6.9.1 as
+
+* You should do as I do.
+
+#### 6.9.2 as if、as though
+
+* He treated the boy as if he were his son.
+* He walked about as though he had lost something.
+
+## 7. 特殊句式
+
+### 7.1 倒装
+
+### 7.2 强调
+
+### 7.3 省略
+
+## 非谓语动词
 
 ### 动名词
 
@@ -428,15 +438,50 @@ I was so tired that I went to sleep immediately.
 
 ### 分词
 
-## 8. 情态动词和虚拟语气
+## 情态动词
 
-### 8.1 情态动词
+### 情态动词
 
-### 8.2 虚拟语气
+## 条件句与虚拟语气
 
-## 9. 时态
+### 真实条件句
 
-### 9.1 一般现在
+#### 永远真实的条件句
+
+if 从句用现在时，主句用现在时
+
+* If you don't water plants, they die.
+* If you put an ice in the sun, it melts.
+
+#### 将来可能的条件句
+
+if 从句用现在时，主句用将来时
+
+* If it rains tomorrow, we'll stay at home.
+* If he is working, I won't disturb him.
+
+主句是祈使句时，不需要用将来时
+
+* If you make a mistake, correct it.
+* Please don't disturb him if he is busy.
+
+### 虚拟条件句
+
+#### 对现在的虚拟
+
+#### 对过去的虚拟
+
+#### 对将来的虚拟
+
+## 直接引语和间接引语
+
+### 直接引语
+
+### 间接引语
+
+## 时态
+
+### 一般现在
 
 1. 表述客观真理、客观存在及自然现象
    * Knowledge **is** power.
@@ -454,7 +499,7 @@ I was so tired that I went to sleep immediately.
 5. 时间、条件、让步状语从句中代替一般将来时
    * 
 
-### 9.2 现在进行
+### 现在进行
 
 1. 表示说话时正在进行的动作[^2]
 
@@ -484,7 +529,7 @@ I was so tired that I went to sleep immediately.
 
    * I **am coming** to see you.
 
-### 9.3 一般过去
+### 一般过去
 
 1. 表示过去发生的事或存在的状态[^3]
    * Last summer, I **went to** Italy.
@@ -499,7 +544,7 @@ I was so tired that I went to sleep immediately.
 5. 在时间、条件、让步状语从句中，表示过去将来的动作
    * 
 
-### 9.4 过去进行
+### 过去进行
 
 1. 表示在过去某一时间正在进行的动作
 
@@ -532,11 +577,50 @@ I was so tired that I went to sleep immediately.
    * I was wondering if you could help me look up the word "ergonomics".
    * I was thinking if you could write an essay about George Gordon Byron.
 
-### 9.5 一般将来
+### 一般将来
 
-### 9.6 将来进行
+1. shall/will + 动词原形
 
-### 9.7 现在完成
+   shall 常用在第一人称后面，will 则可用于所有人称
+
+   * I will see you tomorrow. I'll see you at 3 o'clock.
+   * George will be here this evening. He'll come by train.
+
+2. be going to do
+
+3. be to do
+
+4. be about to do
+
+5. 现在进行时表将来
+
+6. 一般现在时表将来
+
+### 将来进行
+
+1. 表示在将来的某一时刻正在进行的动作
+
+   可以是将来某一具体的时间，也可以是将来某一动作发生的时间
+
+   * What will you be doing at 10 o'clock tomorrow.
+   * They probably will be watching TV when we get there.
+
+2. 表示计划好的将来要做的事情，与一般将来时表达的含义一致
+
+   * They will be arriving here tomorrow.
+   * She will meeting him at the station.
+
+3. 表示在将来某一时刻开始并持续下去的动作，强调动作的持续性
+
+   * I shall be writing letters all day tomorrow.
+   * He will be working in the garden tomorrow.
+
+4. 在疑问句中表示客气地询问别人的打算
+
+   * Will you be having dinner at home this evening?
+   * Will you be passing the bank when you are out?
+
+### 现在完成
 
 1. 强调过去的行为对现在的影响[^4]
    * I have just received a letter from my brother, Tim.
@@ -552,29 +636,62 @@ I was so tired that I went to sleep immediately.
    * He **has been to** Beijing.
    * He **has gone to** Beijing.
 
-### 9.8现在完成进行
+### 现在完成进行
 
-### 9.9 过去完成
+### 过去完成
 
-### 9.10 过去完成进行
+1. 描述过去某一时间或动作之前已经完成的动作
 
-### 9.11 将来完成
+   * I had just finished half of the work by yesterday.
+   * Jane had left before I arrived.
+   * When he had finished lunch he asked for a glass of beer.
 
-### 9.12 将来完成进行
+2. 用来表示未曾实现的愿望或打算
 
-## 10. 语态
+   hope, wish, plan, want, mean, intend, attempt, think, expect 等动词用过去完成时表示未曾实现的愿望或打算
 
-### 10.1 被动语态的构成
+   * I had hoped to be back last night, but I didn't catch the train.
+   * I had intended to come to the party, but I was busy.
+   * I had meant to come, but it rained hard.
 
-### 10.2 被动语态的句式
+### 过去完成进行
 
-### 10.3 被动语态的用法
+### 将来完成
 
-## 11. 副词
+### 将来完成进行
 
-### 11.1 副词的分类
+## 语态
 
-### 11.2 副词的位置
+### 被动语态的构成
+
+### 被动语态的句式
+
+1. 肯定句式
+2. 否定句式
+3. 一般疑问句式
+4. 特殊疑问句式
+5. 含情态动词时
+
+### 被动语态的用法
+
+1. 强调动作的承受者时
+   * This bridge was built by prisoners of war in 1942.
+   * A letter was delivered by the postman this morning.
+2. 不必要指出或不知道动作的执行者时
+   * This bridge was built in 1942.
+   * A letter was delivered this morning.
+3. 动作的执行者是无生命的事物时
+   * The old man was killed by a car.
+   * I was deeply impressed by Jimmy's good behavior.
+4. 为了礼貌起见而避免提及动作的执行者时
+   * The floor has been dirtied. Let's get it cleaned.
+5. 句法修辞需要时
+
+## 副词
+
+### 副词的分类
+
+### 副词的位置
 
 1. 修饰形容词、副词时的位置
 
@@ -609,19 +726,19 @@ I was so tired that I went to sleep immediately.
    * Jeff is always ready to help others.
    * You'll always be asked to keep silence over what's happened.
 
-### 11.3 副词的比较级
+### 副词的比较级
 
-### 11.4 常用副词辨析
+### 常用副词辨析
 
-## 12. 形容词
+## 形容词
 
-### 12.1 形容词的分类
+### 形容词的分类
 
-### 12.2 形容词的位置
+### 形容词的位置
 
-### 12.3 形容词的比较级
+### 形容词的比较级
 
-#### 12.3.1 原级
+#### 原级
 
 1. "... as + 原级形容词 + as ..." 
    * My handwriting is as beautiful as yours.
@@ -633,7 +750,7 @@ I was so tired that I went to sleep immediately.
    * We have produced as many tractors as we did last year.
    * I don't make as much money as you do.
 
-#### 12.3.2 比较级
+#### 比较级
 
 1. 比较级 + than
    * Jane is taller than Mary.
@@ -644,16 +761,16 @@ I was so tired that I went to sleep immediately.
 3. 比较级 + and + 比较级
 4. the + 比较级 ..., the + 比较级
 
-#### 12.3.3 最高级
+#### 最高级
 
 1. the + 形容词最高级（ +名词 ）+ 比较范围
    * Caroline is very tall. She is the tallest girl int he class.
    * Caroline's handwriting is very bad. It is the worst handwriting I have ever seen.
 2. 最高级不表示“最......”的用法
 
-## 13. 介词
+## 介词
 
-### 13.1 地点介词
+### 地点介词
 
 1. on, over, above
    * on 表示接触或某一表面支撑着的上方
@@ -693,9 +810,9 @@ I was so tired that I went to sleep immediately.
 12. off 远离......
 13. up 在......上边
 
-### 13.2 时间介词
+### 时间介词
 
-#### 13.2.1 at, in, on
+#### at, in, on
 
 1. at 表示在某一具体时刻、某时间点
    * I aways leave home at 8 o'clock.
@@ -704,7 +821,7 @@ I was so tired that I went to sleep immediately.
 3. on 表示在特定的日子、具体的日期、星期及节日等
    * On Wednesday evening, we went to the Town Hall.
 
-#### 13.2.2 during, in
+#### during, in
 
 都表示“一段时间内”
 
@@ -713,7 +830,7 @@ I was so tired that I went to sleep immediately.
 2. in 表示动作发生的具体的时间
    * 同 13.2.1-2
 
-#### 13.2.3 in, after
+#### in, after
 
 都表示“一段时间后”
 
@@ -724,31 +841,33 @@ I was so tired that I went to sleep immediately.
 3. after 接时间点表示“某个时间点之后”
    * We'll have a meeting after three o'clock.
 
-#### 13.2.4 for, since
+#### for, since
 
-* for 接一段时间，用于完成时的句子中
-* since 接时间点，用于完成时的句子中
+1. for 接一段时间，用于完成时、将来时的句子中
+   * He has been there for six months.
+   * He will be away for two months.
+2. since 接时间点，用于完成时的句子中
 
-#### 13.2.5 before, by
+#### before, by
 
 * 二者都表示“在......之前”，by含有“截止”的意思
 
-#### 13.2.6 by, until
+#### by, until
 
 * by 表示到什么时候为止动作已经完成了
 * until 表示动作持续到什么时候
 
-#### 13.2.7 from, till, between
+#### from, till, between
 
 * The shops are open from 9 till 5.
 
-### 13.3 手段介词
+### 手段介词
 
 1. with 多指用工具、身体的某个部位或器官；
 2. by 指使用方法、手段、交通工具； 
 3. in 指使用某种语言或材料等
 
-### 13.4 其他介词
+### 其他介词
 
 1. but, except, except for, besides, apart from
 2. of 具有......性质
@@ -756,9 +875,9 @@ I was so tired that I went to sleep immediately.
 4. without 没有......
 5. instead of 代替；而不是
 
-## 14. 冠词
+## 冠词
 
-### 14.1 不定冠词
+### 不定冠词
 
 不定冠词是表示泛指的
 
@@ -767,7 +886,7 @@ I was so tired that I went to sleep immediately.
    * A square has four sides.
 2. 表示泛指某个人或事物
    * Yesterday I bought a book. Books are not very expensive.
-   * Yesterday a begger knocked at my door.
+   * Yesterday a beggar knocked at my door.
 3. 表示“一”的概念
 4. 表示相同、同一或具有相同的性质
 5. 表示单位量词的“每一”
@@ -778,7 +897,7 @@ I was so tired that I went to sleep immediately.
 9. 用于作同源宾语的名词前
 10. 固定短语
 
-### 14.2 定冠词
+### 定冠词
 
 定冠词主要表示特指，其次还可以表示泛指
 
@@ -799,15 +918,19 @@ I was so tired that I went to sleep immediately.
 13. 用于
 14. 用于表示地名、组织名、江河、海洋、海湾、沙漠等的专有名词前
 
-### 14.3 零冠词
+### 零冠词
 
 1. 不可数名词和可数名词复数不加冠词表示一类人或事物
    * Life sometimes is hard.
    * Tigers are dangerous animals.
 2. 姓名前不能用不定冠词或定冠词
 
-## 15. 代词
+## 代词
 
 与 every 一起符合而成的不定代词是单数形式
 
-## 16. 数词
+## 数词
+
+## 名词
+
+### 名词所有格
