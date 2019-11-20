@@ -3,12 +3,13 @@
 ### 1.1 成分与词性
 
 1. **主语**：名词性
-
 2. **谓语**：动词性
-
 3. **宾语**：名词性
-
 4. **表语**：名词性、形容词性、副词性
+5. **定语**：名词性、形容词性、副词性
+6. **状语**：副词性、形容词性
+7. **补语**：名词性、形容词性、副词性
+8. **同位语**：名词性
 
 
 ### 1.2 词类与词性
@@ -391,48 +392,46 @@ I was so tired that I went to sleep immediately.
 
 ### 动名词
 
-1. 构成
+#### 构成和特征
 
-   由动词原形 + “-ing” 构成。***本质上是一个名词***，但兼具动词和名词的特征和作用。其动词特征表现为可以带宾语、表语和状语。
+动名词由动词原形 + “-ing” 构成。***本质上是一个名词***，但兼具动词和名词的特征和作用。其动词特征表现为可以带宾语、表语和状语。
 
-   ​	He stressed the importance of defeating their competitors.（带宾语）
+* He stressed the importance of defeating their competitors.（带宾语）
+* He dreamed of becoming a aviator.（带表语）
+* Getting up early is considered a good habit.（带状语）
 
-   ​	He dreamed of becoming a aviator.（带表语）
+#### 时态和语态
 
-   ​	Getting up early is considered a good habit.（带状语）
+|            | 主动语态                      | 被动语态         |
+| ---------- | ----------------------------- | ---------------- |
+| **一般式** | doing / not doing             | being done       |
+| **完成式** | having done / not having done | having been done |
 
-2. 功能
+#### 句法功能
 
-   1. 作主语
+1. 作主语
 
-      Eating is always a pleasure.
+   * Eating is always a pleasure.
+   * Watching television is my favourite pastime. 
 
-   2. 作宾语（动宾、介宾）
+2. 作宾语（动宾、介宾）
 
-      He admitted taking the watch.
+   * He admitted taking the watch.
+* He is capable of doing anything.
+   
+3. 作表语
 
-      He is capable of doing anything.
+   * Her job  was keeping the hall clean.
 
-   3. 作表语
+4. 作定语（相当于名词修饰名词）
 
-      Her job  was keeping the hall clean.
+   * a reading room
 
-   4. 作定语（相当于名词修饰名词）
+   * a washing machine
 
-      reading room
+5. ~~作状语（在介词后构成介词短语作状语）~~
 
-      swimming pool
-
-   5. ~~作状语~~（在介词后构成介词短语作状语）
-
-      He sat there without saying anything.
-
-3. 时态和语态
-
-|            | 主动语态    | 被动语态         |
-| ---------- | ----------- | ---------------- |
-| **一般式** | doing       | being done       |
-| **完成式** | having done | having been done |
+   * He sat there without saying anything.
 
 ### 不定式
 
@@ -440,7 +439,79 @@ I was so tired that I went to sleep immediately.
 
 ## 情态动词
 
-### 情态动词
+### must/have to
+
+#### 句式
+
+1. 肯定式
+   * must
+   * have to
+   * have got to
+2. 否定式
+   * mustn't
+   * don't have to
+   * haven't got to
+3. 疑问式
+   * must you ...?
+   * do you have to ...?
+   * have you got to ...?
+
+#### 表示必须
+
+1. 二者均表示“必须”， 但 must 多表示主观意志，而 have to 多表示客观需要
+   * I must keep my word.
+   * It rained heavily, so the children had to stay at home.
+2. must 只有一种时态，而 have to 有多种时态变化
+   * We will have to ask Mr Li for help.
+3. 英式英语中会使用 have got to 代替 have to
+   * He has to leave now.
+   * He has got to leave now.
+4. 否定回答用 needn't 或 don't have to
+
+#### 表示推测
+
+1. 表示对现在的情况的推测，must + 动词原形
+   * He must be a fool.
+2. 表示对正在发生的情况的推测，must + be doing
+3. 表示对过去的情况的推测，must + have done
+
+#### 表示感情色彩
+
+must 可以表示“偏要......”，“非要......”
+
+### can/could
+
+#### 表示能力
+
+#### 表示请求
+
+* Can I use your phone please?
+* Could I use your phone please?
+
+#### 表示推测
+
+#### 习惯用法
+
+### may/might
+
+#### 表示请求
+
+* May I use your phone please?
+* Might I use your phone please?
+
+#### 表示推测
+
+1. 表示对现在的情况的推测，may/might + 动词原形
+2. 表示对正在发生的情况的推测，may/might + be doing
+3. 表示对过去的情况的推测，may/might + have done
+   * He may/might hve telephoned last night, but I'm not sure.
+4. 表示对将来的情况的推测，may/might + 动词原形
+   * He may/might come tomorrow.
+
+#### may/might as well
+
+* I haven't got anything to do, so I may sa well come with you.
+* He'll never pass. He might as well give up.
 
 ## 条件句与虚拟语气
 
