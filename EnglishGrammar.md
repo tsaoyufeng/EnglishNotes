@@ -25,7 +25,7 @@
 
 #### 1.2.2不直接做成分的词类
 
-1. **介词**：介词 + 名词性（名词、动名词）：形容词性、副词性
+1. **介词**：介词 + 名词性成分构成介宾短语：形容词性、副词性
 2. **连词**：连接句子
 3. **冠词**：限定名词
 
@@ -55,15 +55,15 @@
 
 ### 2.1 六大基本句型
 
-1. 主语 + 谓语
+1. 主语 + 谓语(不及物动词)
    * Birds fly.
-2. 主语 + 谓语 + 宾语
+2. 主语 + 谓语(及物动词) + 宾语
    * I love you.
-3. 主语 + 谓语 + 表语
+3. 主语 + 系动词 + 表语
    * I am angry.
-4. 主语 + 谓语 + 宾语 + 宾语
+4. 主语 + 谓语(及物动词) + 宾语 + 宾语
    * I ask him a question.
-5. 主语 + 谓语 +宾语 + 补语
+5. 主语 + 谓语(及物动词) +宾语 + 补语
    * I find Shanghai beautiful.
 6. 存现句
    * There is a small village at the foot of the mountain.
@@ -412,27 +412,20 @@ I was so tired that I went to sleep immediately.
 1. 作主语
 
    * Eating is always a pleasure.
-   * Watching television is my favourite pastime. 
-
-2. 作宾语（动宾、介宾）
+   * Watching television is my favorite pastime. 
+2. 作宾语
 
    * He admitted taking the watch.
-* He is capable of doing anything.
-   
+   * He is capable of doing anything.
 3. 作表语
 
    * Her job  was keeping the hall clean.
-
 4. 作定语（相当于名词修饰名词）
 
    * a reading room
-
    * a washing machine
-
-5. ~~作状语（在介词后构成介词短语作状语）~~
-
-   * He sat there without saying anything.
-
+5. ~~作状语（在介词后构成介宾短语作状语）~~
+* He sat there without saying anything.
 ### 不定式
 
 ### 分词
@@ -504,7 +497,7 @@ must 可以表示“偏要......”，“非要......”
 1. 表示对现在的情况的推测，may/might + 动词原形
 2. 表示对正在发生的情况的推测，may/might + be doing
 3. 表示对过去的情况的推测，may/might + have done
-   * He may/might hve telephoned last night, but I'm not sure.
+   * He may/might have telephoned last night, but I'm not sure.
 4. 表示对将来的情况的推测，may/might + 动词原形
    * He may/might come tomorrow.
 
@@ -550,72 +543,76 @@ if 从句用现在时，主句用将来时
 
 ### 间接引语
 
-## 时态
+## 时态和语态
 
-### 一般现在
+### 概述
+
+### 语态
+
+#### 一般现在
 
 1. 表述客观真理、客观存在及自然现象
-   * Knowledge **is** power.
-   * China **lies in** the east of Asia.
-2. 表示习惯性、经常性的动作，或经常存在的状态[^2]
-   * I never **get up** early on Sundays.
-   * I sometimes **stay in** bed until lunchtime.
-   * **Do** you always get up so late?
+   * Knowledge is power.
+   * China lies in the east of Asia.
+2. 表示习惯性、经常性的动作，或经常存在的状态
+   * I never get up early on Sundays.
+   * I sometimes stay in bed until lunchtime.
+   * Do you always get up so late?
 3. 表示按时间表拟定或安排好要发生的动作
-   * The train **leaves** London at six o'clock.
-   * The final exam **takes place** next week.
+   * The train leaves London at six o'clock.
+   * The final exam takes place next week.
 4. 表示现在正在发生的动作或存在的状态
-   * Here **comes** the bus!
-   * There **goes** the bell.
+   * Here comes the bus!
+   * There goes the bell.
 5. 时间、条件、让步状语从句中代替一般将来时
    * 
 
-### 现在进行
+#### 现在进行
 
-1. 表示说话时正在进行的动作[^2]
+1. 表示说话时正在进行的动作
 
    * What are you doing?
    * I am having breakfast.
 
-2. 表示现阶段正在进行的动作，虽然此时此刻该动作不一定正在进行[^4]
+2. 表示现阶段正在进行的动作，虽然此时此刻该动作不一定正在进行
 
    * He is working for a big firm.
    * He is finding this trip very exiting.
 
 3. 表示此时此刻某一动作不断重复
 
-   * The boy **is jumping** with great joy at the sight of his mother.
-   * The little girl **is blinking** at me.
+   * The boy is jumping with great joy at the sight of his mother.
+   * The little girl is blinking at me.
 
 4. 表达感情色彩
 
    与副词 always, usually, forever, constantly, continually 等连用，表达"老是......"
 
-   * The naughty boy **is continually asking** questions.
-   * She **is always thinking of** others instead of herself.
+   * The naughty boy is continually asking questions.
+   * She is always thinking of others instead of herself.
 
-5. 有些瞬间动词用于进行时态表示“即将......”[^2]
+5. 有些瞬间动词用于进行时态表示“即将......”
 
    这类动词有 come, go, leave, start begin, stop, arrive, stay, return, take 等
 
-   * I **am coming** to see you.
+   * I am coming to see you.
 
-### 一般过去
+#### 一般过去
 
-1. 表示过去发生的事或存在的状态[^3]
-   * Last summer, I **went to** Italy.
+1. 表示过去发生的事或存在的状态
+   * Last summer, I went to Italy.
    * A friendly waiter taught me a few words of Italian.
-2. 表示过去经常、反复发生的动作[^3]
+2. 表示过去经常、反复发生的动作
    * Every day I thought about postcards.
 3. 描述几个相继发生过的动作
-   * I **got up** early, **washed** my face, **had** a quick breakfast and **hurried** to school.
+   * I got up early, washed my face, had a quick breakfast and hurried to school.
 4. 追述逝去的人或事
-   * The book **was written** by Mr Liang Shiqiu.
-   * Lei Feng **set** a good example to the people throughout the world.
+   * The book was written by Mr Liang Shiqiu.
+   * Lei Feng set a good example to the people throughout the world.
 5. 在时间、条件、让步状语从句中，表示过去将来的动作
    * 
 
-### 过去进行
+#### 过去进行
 
 1. 表示在过去某一时间正在进行的动作
 
@@ -648,7 +645,7 @@ if 从句用现在时，主句用将来时
    * I was wondering if you could help me look up the word "ergonomics".
    * I was thinking if you could write an essay about George Gordon Byron.
 
-### 一般将来
+#### 一般将来
 
 1. shall/will + 动词原形
 
@@ -667,7 +664,7 @@ if 从句用现在时，主句用将来时
 
 6. 一般现在时表将来
 
-### 将来进行
+#### 将来进行
 
 1. 表示在将来的某一时刻正在进行的动作
 
@@ -691,25 +688,25 @@ if 从句用现在时，主句用将来时
    * Will you be having dinner at home this evening?
    * Will you be passing the bank when you are out?
 
-### 现在完成
+#### 现在完成
 
-1. 强调过去的行为对现在的影响[^4]
+1. 强调过去的行为对现在的影响
    * I have just received a letter from my brother, Tim.
    * He has already visited a great number of different places.
-2. 表示过去的某一动作一直持续到现在[^4][^5]
+2. 表示过去的某一动作一直持续到现在
    * He has been there for six months.
    * He has begun his own private 'telephone' service.
-3. 表示经历过的事情[^4]
+3. 表示经历过的事情
    * I have never been abroad before.
 4. 在时间、条件等状语从句中代替将来完成时
 5. 辨析
-   * He **has been** Beijing for six months.
-   * He **has been to** Beijing.
-   * He **has gone to** Beijing.
+   * He has been Beijing for six months.
+   * He has been to Beijing.
+   * He has gone to Beijing.
 
-### 现在完成进行
+#### 现在完成进行
 
-### 过去完成
+#### 过去完成
 
 1. 描述过去某一时间或动作之前已经完成的动作
 
@@ -725,25 +722,36 @@ if 从句用现在时，主句用将来时
    * I had intended to come to the party, but I was busy.
    * I had meant to come, but it rained hard.
 
-### 过去完成进行
+#### 过去完成进行
 
-### 将来完成
+#### 将来完成
 
-### 将来完成进行
+#### 将来完成进行
 
-## 语态
+### 语态
 
-### 被动语态的构成
+#### 被动语态的构成
 
-### 被动语态的句式
+| 时间\形式 | 一般式             | 进行式               | 完成式                    |
+| --------- | ------------------ | -------------------- | ------------------------- |
+| **现在**  | am/is/are done     | am/is/are being done | have/has been done        |
+| **过去**  | was/were done      | was/were being done  | had been done             |
+| **将来**  | shall/will be done |                      | shall/will have been done |
+
+#### 被动语态的句式
 
 1. 肯定句式
+   * be done
 2. 否定句式
+   * be not done
 3. 一般疑问句式
+   * 
 4. 特殊疑问句式
+   * 
 5. 含情态动词时
+   * can be done
 
-### 被动语态的用法
+#### 被动语态的用法
 
 1. 强调动作的承受者时
    * This bridge was built by prisoners of war in 1942.
@@ -771,7 +779,7 @@ if 从句用现在时，主句用将来时
    * The place looks completely different now.
    * The book is easy enough for little kids.
 
-2. 方式副词、时间副词、地点副词的位置[^4][^5][^6]
+2. 方式副词、时间副词、地点副词的位置
 
    修饰动词的方式副词一般放在动词后，有时也可放在动词前。时间副词可放在句末也可放在句首，有时也可放在句中。地点副词一般置于句末。当三种副词同时出现时，通常是按照方式副词、地点副词、时间副词的顺序排列。
 
@@ -787,7 +795,7 @@ if 从句用现在时，主句用将来时
    * Up till now he has won five prizes.
    * He calls at every house in the street once a month.
 
-3. 频度副词的位置[^2]
+3. 频度副词的位置
 
    频度副词常位于动词之前，系动词、情态动词、助动词之后；句中有多个助动词时，置于第一个助动词之后
 
