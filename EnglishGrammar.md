@@ -80,7 +80,7 @@
 
    * What are you doing there on earth?
    * When can I get my ID card?
-   * Were do I get off to get to the Bank of China?
+   * Where do I get off to get to the Bank of China?
 
 3. 选择疑问句
 
@@ -139,30 +139,45 @@ how 引导的感叹句的**中心词为形容词或副词**，常见的结构有
 
 ### 3.1 并列连词
 
-1. 并列：and, both...and..., neither...nor..., either...or..., not only...but also..., not only...but...as well, not...but...
-   * I used to live in Paris and London.
-   * Both he and I teach English.
-   * Neither he nor I speak English.
-   * Either you or I must tell him.
-   * she is not only kind but also honest.
-   * You must not only wash the dishes but sweep the floor as well.
-   * He is not a teacher but an engineer in a big company.
-2. 转折：but, yet, while, whereas
-   * The car is very old but it runs very fast.
-   * The problem was a little hard, yet I was able to work it out.
-   * The winter in Beijing is very cold while/whereas that of Kunming is warm.
-3. 选择：or, either...or...
-   * Would you like to leave or would you like to stay.
-   * I think Tom, as the head of a big department , should either study regularly or quit his job.
-4. 因果：for
-   * The leaves of the trees are falling, for it's already autumn.
-   * He may be ill, for he is absent from the meeting today.
+#### 3.1.1 并列
+
+and, both...and..., neither...nor..., either...or..., not only...but also..., not only...but...as well, not...but...
+
+* I used to live in Paris and London.
+* Both he and I teach English.
+* Neither he nor I speak English.
+* Either you or I must tell him.
+* she is not only kind but also honest.
+* You must not only wash the dishes but sweep the floor as well.
+* He is not a teacher but an engineer in a big company.
+
+#### 3.1.2 转折
+
+but, yet, while, whereas
+
+* The car is very old but it runs very fast.
+* The problem was a little hard, yet I was able to work it out.
+* The winter in Beijing is very cold while/whereas that of Kunming is warm.
+
+#### 3.1.3 选择
+
+or, either...or...
+
+* Would you like to leave or would you like to stay.
+* I think Tom, as the head of a big department , should either study regularly or quit his job.
+
+#### 3.1.4 因果
+
+for
+
+* The leaves of the trees are falling, for it's already autumn.
+* He may be ill, for he is absent from the meeting today.
 
 ### 3.2 从属连词
 
-1. 引导名词性从句
+#### 3.2.1 引导名词性从句
 
-2. 引导状语从句
+#### 3.2.2 引导状语从句
 
 ## 4. 名词性从句
 
@@ -503,7 +518,7 @@ must 可以表示“偏要......”，“非要......”
 
 #### may/might as well
 
-* I haven't got anything to do, so I may sa well come with you.
+* I haven't got anything to do, so I may as well come with you.
 * He'll never pass. He might as well give up.
 
 ## 条件句与虚拟语气
@@ -547,7 +562,7 @@ if 从句用现在时，主句用将来时
 
 ### 概述
 
-### 语态
+### 时态
 
 #### 一般现在
 
@@ -698,6 +713,7 @@ if 从句用现在时，主句用将来时
    * He has begun his own private 'telephone' service.
 3. 表示经历过的事情
    * I have never been abroad before.
+   * I have been to New York three times so far.
 4. 在时间、条件等状语从句中代替将来完成时
 5. 辨析
    * He has been Beijing for six months.
@@ -728,7 +744,7 @@ if 从句用现在时，主句用将来时
 
 #### 将来完成进行
 
-### 语态
+### 被动语态
 
 #### 被动语态的构成
 
