@@ -14,7 +14,7 @@
 
 ### 1.2 词类与词性
 
-#### 1.2.1 直接做成分的词类
+#### 1.2.1 直接做成分的词类 
 
 1. **名词**：名词性
 2. **动词**：动词性
@@ -443,6 +443,18 @@ I was so tired that I went to sleep immediately.
 * He sat there without saying anything.
 ### 不定式
 
+#### 构成和特征
+
+#### 时态和语态
+
+| 时态\语态  | 主动         | 被动              |
+| ---------- | ------------ | ----------------- |
+| **一般式** | to do        | to be done        |
+| **进行式** | to be doing  |                   |
+| **完成式** | to have done | to have been done |
+
+
+
 ### 分词
 
 ## 情态动词
@@ -494,7 +506,8 @@ must 可以表示“偏要......”，“非要......”
 #### 表示请求
 
 * Can I use your phone please?
-* Could I use your phone please?
+* Could I use yo
+* ur phone please?
 
 #### 表示推测
 
@@ -520,6 +533,25 @@ must 可以表示“偏要......”，“非要......”
 
 * I haven't got anything to do, so I may as well come with you.
 * He'll never pass. He might as well give up.
+
+### used to
+
+#### 句式
+
+1. 否定式
+   * He didn't use to be so careless.
+2. 疑问式
+   * Used they to exercise in high school?
+   * Did they use to exercise in high school?
+
+#### 表示过去
+
+1. 表示某事过去常常发生，但现在已经不发生了
+   * I used to go to work by bus. Now I go by car.
+   * I used to collect stamps when I was a boy.
+2. 表示过去存在某个状态，但现在已经不存在了
+   * He used to be a postman along time ago. He's a taxi driver now.
+   * Jemmy used to be a friend of mine.
 
 ## 条件句与虚拟语气
 
@@ -840,8 +872,8 @@ if 从句用现在时，主句用将来时
    * The story is as interesting as the one you just told.
 2. "... not as/so + 原级形容词 + as ..."
    * I am not as/so busy as I used to be.
-   * The weather here is not as/so comfortable as that in China.
-3. " ... as much/many + 名词 + as ..."
+   * She is not as/so intelligent as we think.
+3. " ... as much/many + 名词 + as ..."表示“和......一样多的......”
    * We have produced as many tractors as we did last year.
    * I don't make as much money as you do.
 
@@ -997,7 +1029,7 @@ if 从句用现在时，主句用将来时
 定冠词主要表示特指，其次还可以表示泛指
 
 1. 特指上文提到过的特定的人或事物
-   * A man is walking towards me. The man is carring a parcel. The parcel is full of meat.
+   * A man is walking towards me. The man is carrying a parcel. The parcel is full of meat.
 2. 特指上文虽未提及，但谈话人都知道的人或事物
 3. 用在表示宇宙间独一无二的名词前
 4. 用在可数名词单数前表示一类人或事物
@@ -1008,21 +1040,51 @@ if 从句用现在时，主句用将来时
 8. 用于某些形容词或形容词化的过去分词前表示一类人或事物
 9. 用于被演奏的西洋乐器名词前
 10. 用于集体名词、物质名词前
+    * The English understand each other, but I don't understand them!
+    * The museum is open to the public.
+    * The iron is harder than the stone.
 11. 用于表示世纪或年代的词前
 12. 用于
 13. 用于
-14. 用于表示地名、组织名、江河、海洋、海湾、沙漠等的专有名词前
+14. 用于表示组织名、江河、海洋、山脉、沙漠、部分国名等的专有名词前
+    * The WTO
+    * The Yellow River
+    * The Pacific
+    * The Himalayas
+    * The United States of America
 
 ### 零冠词
 
 1. 不可数名词和可数名词复数不加冠词表示一类人或事物
    * Life sometimes is hard.
    * Tigers are dangerous animals.
-2. 姓名前不能用不定冠词或定冠词
+2. 人名和地名前不能用不定冠词或定冠词
 
 ## 代词
 
-与 every 一起符合而成的不定代词是单数形式
+### 不定代词
+
+#### some, any
+
+1. some 和 any 表示“一些”既可修饰和指代可数名词复数，也可修饰和指代不可数名词
+2. some 一般用于肯定句中，any 一般用于否定句和疑问句中
+3. some 有时也可用于疑问句，表示说话者肯定的语气或希望得到对方肯定的答复；any 有时也用于肯定句中，表示“任意一些”
+4. 作主语时，谓语动词形式要根据 some 和 any 所有修饰或指代的名词的单复数而定，（可数名词复数用复数，不可数名词用单数）
+
+#### little, few
+
+1. little 和 a little 用来指代或修饰不可数名词
+2. few 和 a few 用来指代或修饰可数名词
+3. little 和 few 表示否定意义，a little 和 a few 表示肯定意义
+
+#### many, much
+
+1. many 修饰或指代可数名词，much 修饰或指代不可数名词
+2. many 和 much 后面可跟 of 短语，但 of 后的词要有修饰语或表示特指意义
+   * Many of my friends live abroad.
+   * Much of the work has been done.
+
+与 every 一起复合而成的不定代词是单数形式
 
 ## 数词
 
