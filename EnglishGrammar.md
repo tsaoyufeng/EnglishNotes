@@ -580,9 +580,24 @@ if 从句用现在时，主句用将来时
 
 #### 对现在的虚拟
 
+表示与现在事实相反，if 从句用 did 或were，主句用 would/should/could/might + 动词原形
+
+* If you had enough money, I would buy myself a computer.
+* If I were ten years younger, I would start all over again.
+
 #### 对过去的虚拟
 
+表示与过去事实相反，if 从句用 had done, 主句用 would/should/could/might + have done
+
+* If we had had enough rain last year, we could have gained a good harvest.
+* If you had worked hard, you would have easily passed the final examination.
+
 #### 对将来的虚拟
+
+表示与将来事实相反，if 从句用“did或were”，“should + 动词原形”或“were to + 动词原形”，主句用 would/should/could/might + 动词原形
+
+* If I saw/should see/were to see him tomorrow, I would invite him home.
+* If the weather were/ should be fine tomorrow, I would go on a trip.
 
 ## 直接引语和间接引语
 
@@ -703,6 +718,8 @@ if 从句用现在时，主句用将来时
 
 2. be going to do
 
+   在陈述句和疑问句中，可用be going to do 代替 shall/will do，be going to do 指当前已经计划过或思考过的意图或打算，will/shall do 表示事先未思考或计划过的意图；be going to do 表示客观迹象表明马上要发生， will do 侧重于将来必然会发生的事情
+
 3. be to do
 
 4. be about to do
@@ -773,6 +790,10 @@ if 从句用现在时，主句用将来时
 #### 过去完成进行
 
 #### 将来完成
+
+1. 表示将来某一时间或动作之前已经完成的动作
+   * They will have finished this bridge in a year's time.
+   * I shall have completed this novel next June.
 
 #### 将来完成进行
 
