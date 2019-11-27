@@ -457,6 +457,14 @@ I was so tired that I went to sleep immediately.
 
 ### 分词
 
+### 用法区别
+
+#### 作宾语的区别
+
+1. 用不定式作宾语指具体的或一次性的行为，用动名词指概括性、经常性的动作或体验，一般可通用。这样的动词有 like, love, hate, start, continue, prefer 等
+   * I'd love to sit in the garden.
+   * I love sitting in the garden when it's fine.
+
 ## 情态动词
 
 ### must/have to
@@ -475,6 +483,9 @@ I was so tired that I went to sleep immediately.
    * must you ...?
    * do you have to ...?
    * have you got to ...?
+4. 被动式
+   * must be done
+   * have to be done
 
 #### 表示必须
 
@@ -503,11 +514,17 @@ must 可以表示“偏要......”，“非要......”
 
 #### 表示能力
 
+1. 表示能力时可以与 be able to 互换
+   * I can see you tomorrow.
+   * I'll be able to see you tomorrow.
+2. 与 be able to 的区别
+   * can 只能用在一般现在时和一般过去时，be able to 则可用于多种时态
+   * 在过去时态中，could 仅指具备某种能力，而 was/were able to 则说明具备某种能力，且成功做到了，相当于 managed to do
+
 #### 表示请求
 
 * Can I use your phone please?
-* Could I use yo
-* ur phone please?
+* Could I use your phone please?
 
 #### 表示推测
 
@@ -552,6 +569,24 @@ must 可以表示“偏要......”，“非要......”
 2. 表示过去存在某个状态，但现在已经不存在了
    * He used to be a postman along time ago. He's a taxi driver now.
    * Jemmy used to be a friend of mine.
+
+### need
+
+#### 作情态动词
+
+need 作情态动词时只用于否定句和疑问句中，疑问句的肯定回答用 must
+
+* You needn't wait for me.
+* Need I tell him everything?
+* Yes, you must / No, you needn't.
+
+#### 作实义动词
+
+need 作实义动词时，否定形式和疑问形式都要通过助动词构成
+
+* I need a new hat.
+* You don't need to hand in your composition.
+* Do I need to leave my telephone number?
 
 ## 条件句与虚拟语气
 
