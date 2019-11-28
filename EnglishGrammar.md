@@ -345,8 +345,18 @@ for
 #### 6.5.2 for fear that、in case
 
 * I'm studying hard for fear that I should fail.
+* Don't play by the river in case you fall in.
 
-* Here, in case you change your mind.
+#### 6.5.3 与不定式转换
+
+1. 当主句和从句的主语一致时，目的状语从句可以与 to, in order to, so as to 转换
+   * He ran to the station to catch the train.
+   * I told him about it in order to help you.
+   * I told him about it so as to help you.
+   * I opened the door quietly so as not to disturb him.
+2. 当主句和从句的主语不一致时，一般不改为不定式，如果要改，需要用 for 引出不定式的逻辑主语
+   * He was barking for someone to let him out.
+   * He sent a fax for his mother to learn the good news.
 
 ### 6.6 让步状语从句
 
@@ -422,6 +432,13 @@ I was so tired that I went to sleep immediately.
 | **一般式** | doing / not doing             | being done       |
 | **完成式** | having done / not having done | having been done |
 
+#### 复合结构
+
+有时为了表明动作的执行者，要在动名词之前加上形容词性物主代词或 -'s 所有格形式
+
+* Her coming encouraged all of us.
+* Would you mind my opening the window?
+
 #### 句法功能
 
 1. 作主语
@@ -440,20 +457,26 @@ I was so tired that I went to sleep immediately.
    * a reading room
    * a washing machine
 5. ~~作状语（在介词后构成介宾短语作状语）~~
-* He sat there without saying anything.
+   * He sat there without saying anything.
+#### 常用动名词作宾语的动词
+
 ### 不定式
 
 #### 构成和特征
 
 #### 时态和语态
 
-| 时态\语态  | 主动         | 被动              |
-| ---------- | ------------ | ----------------- |
-| **一般式** | to do        | to be done        |
-| **进行式** | to be doing  |                   |
-| **完成式** | to have done | to have been done |
+| 时态\语态  | 主动              | 被动              |
+| ---------- | ----------------- | ----------------- |
+| **一般式** | to do / not to do | to be done        |
+| **进行式** | to be doing       |                   |
+| **完成式** | to have done      | to have been done |
 
+#### 复合结构
 
+#### 句法功能
+
+#### 常用不定式作宾语的动词
 
 ### 分词
 
@@ -520,6 +543,8 @@ must 可以表示“偏要......”，“非要......”
 2. 与 be able to 的区别
    * can 只能用在一般现在时和一般过去时，be able to 则可用于多种时态
    * 在过去时态中，could 仅指具备某种能力，而 was/were able to 则说明具备某种能力，且成功做到了，相当于 managed to do
+   * He was able to leave Europe before the war began.
+   * He managed to leave Europe before the war began.
 
 #### 表示请求
 
@@ -551,6 +576,26 @@ must 可以表示“偏要......”，“非要......”
 * I haven't got anything to do, so I may as well come with you.
 * He'll never pass. He might as well give up.
 
+### shall/should/ought to
+
+#### shall
+
+#### should
+
+1. 表示“应该”
+   * I should do some work tonight.
+   * Should I do some work tonight?
+2. should have done 表示“过去本该做而未做”；shouldn't have done 表示“过去本不该做却做了”
+   * I'm sorry I'm late. I should have taken a taxi.
+
+#### ought to
+
+1. 表示“应该”
+   * I ought to do some work tonight.
+   * Ought I to do some work tonight?
+2. ought to have done 表示“过去本该做而未做”；ought not to have done 表示“过去本不该做却做了”
+   * I'm sorry I'm late. I ought to have taken a taxi.
+
 ### used to
 
 #### 句式
@@ -564,8 +609,13 @@ must 可以表示“偏要......”，“非要......”
 #### 表示过去
 
 1. 表示某事过去常常发生，但现在已经不发生了
+   
+   表示过去的习惯动作时，可用 would 替代 used to，但 would 仅仅表示过去的情况，与现在无关，而used to 则侧重于对比，表示过去如何，但现在已经不这样了。
+   
    * I used to go to work by bus. Now I go by car.
    * I used to collect stamps when I was a boy.
+   * I would go to work by bus.
+   
 2. 表示过去存在某个状态，但现在已经不存在了
    * He used to be a postman along time ago. He's a taxi driver now.
    * Jemmy used to be a friend of mine.
@@ -622,10 +672,11 @@ if 从句用现在时，主句用将来时
 
 #### 对过去的虚拟
 
-表示与过去事实相反，if 从句用 had done, 主句用 would/should/could/might + have done
+表示与过去事实相反，if 从句用过去完成时, 主句用 would/should/could/might + have done
 
 * If we had had enough rain last year, we could have gained a good harvest.
 * If you had worked hard, you would have easily passed the final examination.
+* If you could have made him change his mind, you would have saved him a lot of trouble.
 
 #### 对将来的虚拟
 
@@ -662,7 +713,9 @@ if 从句用现在时，主句用将来时
    * Here comes the bus!
    * There goes the bell.
 5. 时间、条件、让步状语从句中代替一般将来时
-   * 
+   * The moment he arrives, I shall let you know.
+   * As soon as the rain stops, we shall go out.
+   * I'll give him the message when he returns.
 
 #### 现在进行
 
@@ -688,11 +741,12 @@ if 从句用现在时，主句用将来时
    * The naughty boy is continually asking questions.
    * She is always thinking of others instead of herself.
 
-5. 有些瞬间动词用于进行时态表示“即将......”
+5. 有些瞬间动词用于进行时态表示为将来安排好的活动和事件
 
    这类动词有 come, go, leave, start begin, stop, arrive, stay, return, take 等
 
    * I am coming to see you.
+   * He is arriving tomorrow.
 
 #### 一般过去
 
@@ -759,9 +813,9 @@ if 从句用现在时，主句用将来时
 
 4. be about to do
 
-5. 现在进行时表将来
+5. 一般现在时表将来
 
-6. 一般现在时表将来
+6. 现在进行时表将来
 
 #### 将来进行
 
@@ -799,12 +853,19 @@ if 从句用现在时，主句用将来时
    * I have never been abroad before.
    * I have been to New York three times so far.
 4. 在时间、条件等状语从句中代替将来完成时
+   * The moment he has arrived, I will let you know.
+   * As soon as he has received his exam results, he will phone us.
 5. 辨析
    * He has been Beijing for six months.
    * He has been to Beijing.
    * He has gone to Beijing.
 
 #### 现在完成进行
+
+1. 表示截止到现在，某个动作一直在延续且可能继续下去
+   * He has been ringing me up all morning.
+   * He has been staying at this hotel for the last three weeks.
+   * I have been reading all afternoon.
 
 #### 过去完成
 
@@ -824,13 +885,20 @@ if 从句用现在时，主句用将来时
 
 #### 过去完成进行
 
+1. 表示截止到过去的某个时间，某个动作已经持续多久了
+   * Had been working in a factory for years before he got this job.
+
 #### 将来完成
 
 1. 表示将来某一时间或动作之前已经完成的动作
    * They will have finished this bridge in a year's time.
    * I shall have completed this novel next June.
+2. 现在完成表将来完成
 
 #### 将来完成进行
+
+1. 表示截止到将来的某个时间，某个动作已经持续多久了
+   * By Friday midday, they will have been working on it for seven days.
 
 ### 被动语态
 
@@ -1087,27 +1155,38 @@ if 从句用现在时，主句用将来时
 1. 特指上文提到过的特定的人或事物
    * A man is walking towards me. The man is carrying a parcel. The parcel is full of meat.
 2. 特指上文虽未提及，但谈话人都知道的人或事物
-3. 用在表示宇宙间独一无二的名词前
-4. 用在可数名词单数前表示一类人或事物
+   * Elections will be held later in the year (= this year).
+   * How are all the family (= your family)?
+3. 用在表示独一无二的名词前
+   * the tallest building in the world
+   * sailing across the Pacific
+4. 用于使所指的人或事物更加清晰明确
+   * The school in our village was built last year.
+   * That's the school that Terry went to.
+5. 用在家庭复数名词前，表示家庭的所有成员
+   * The Johnsons has lived in this house for many years.
+6. 用在单数名词前表示一类人或事物
    * The tiger is a dangerous animal.
-5. 用在表示地点、方位和时间的固定短语中
-6. 用在序数词前或比较级所修饰的名词前
-7. 用于
-8. 用于某些形容词或形容词化的过去分词前表示一类人或事物
-9. 用于被演奏的西洋乐器名词前
-10. 用于集体名词、物质名词前
-    * The English understand each other, but I don't understand them!
-    * The museum is open to the public.
-    * The iron is harder than the stone.
-11. 用于表示世纪或年代的词前
-12. 用于
-13. 用于
-14. 用于表示组织名、江河、海洋、山脉、沙漠、部分国名等的专有名词前
-    * The WTO
-    * The Yellow River
-    * The Pacific
-    * The Himalayas
-    * The United States of America
+   * The computer has changed everyone's lives in so many ways.
+7. 用在谈及大家都知道的自然环境或日常生活的一部分时
+   * What was the weather like?
+   * I looked out into the darkness.
+8. 用在谈及人体的一部分时
+   * How's the ankle? Is it still hurting?
+9. 用在形容词前使其成为一个复数名词，表示被这些形容词形容的所有人
+   * The English understand each other, but I don't understand them!
+   * a school for the deaf
+   * The rich should help the poor.
+10. 用在形容词前使其成为一个名词，表示被这些形容词形容的情况或事物
+    * Come on now, that's asking for the impossible.
+    * fantasy movies that make the unreal seem real.
+11. 用于谈论被演奏的某种西洋乐器
+    * Fiona's learning the flute.
+    * He plays the violin.
+12. 用于谈及一段时间，尤其是10年或100年
+    * fashions of the 60s
+    * a great novelist of the 1900s
+    * She remembers the war years.
 
 ### 零冠词
 
@@ -1118,11 +1197,21 @@ if 从句用现在时，主句用将来时
 
 ## 代词
 
+### 指示代词
+
+#### such
+
+#### so
+
+#### the same
+
+* My jacket is the same as yours.
+
 ### 不定代词
 
 #### some, any
 
-1. some 和 any 表示“一些”既可修饰和指代可数名词复数，也可修饰和指代不可数名词
+1. some 和 any 表示“一些”既可修饰和指代复数名词，也可修饰和指代不可数名词
 2. some 一般用于肯定句中，any 一般用于否定句和疑问句中
 3. some 有时也可用于疑问句，表示说话者肯定的语气或希望得到对方肯定的答复；any 有时也用于肯定句中，表示“任意一些”
 4. 作主语时，谓语动词形式要根据 some 和 any 所有修饰或指代的名词的单复数而定，（可数名词复数用复数，不可数名词用单数）
@@ -1140,6 +1229,11 @@ if 从句用现在时，主句用将来时
    * Many of my friends live abroad.
    * Much of the work has been done.
 
+#### a lot, lots
+
+1. a lot of 和 lots of 既可修饰复数名词也可修饰不可数名词，动词形式根据所修饰的名词来决定
+2. a lot 和 lots 相当于 much
+
 与 every 一起复合而成的不定代词是单数形式
 
 ## 数词
@@ -1147,3 +1241,11 @@ if 从句用现在时，主句用将来时
 ## 名词
 
 ### 名词所有格
+
+
+
+***
+
+be of + 名词 = be + 形容词
+
+* This is of importance. = This is important.
